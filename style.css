@@ -1,0 +1,49 @@
+.container-fluid{
+    border:2px solid black;
+    height:100vh;
+    
+}
+.row{
+    border:1px solid green;
+}
+.col,.col-1,.col-2,.col-3,.col-4,.col-5,.col-6,.col-7,.col-8,.col-9,.col-10,.col-11,.col-12{
+    border:0px solid  blueviolet;
+}
+#start{
+    background-color: burlywood;
+
+}
+#header{
+    background-color: coral;
+
+}
+#main{
+    background-color: darkcyan;
+
+}
+#sidebar{
+    background-color: darkkhaki;
+
+}
+#footer{
+    background-color: dimgray;
+    height:37%;
+
+}
+ul{
+    list-style:none;
+}
+
+#btn1{
+    background-color: skyblue;   
+}
+.button{
+    margin-top: 150px;
+    
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    background-color: chartreuse;
+}
